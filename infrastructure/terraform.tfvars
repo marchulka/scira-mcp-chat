@@ -1,0 +1,1 @@
+project = "scira-mcp-dev"
