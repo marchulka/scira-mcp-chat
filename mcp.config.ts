@@ -2,8 +2,9 @@ export const servers = [
   {
     id: "railway-central",
     name: "📡 Scira MCP (Центр управления)",
-    endpoint: "https://scira-mcp-chat-production-2904.up.railway.app/api",
-    role: "controller"
+    endpoint: "https://scira-mcp-chat.up.railway.app/api",
+    role: "controller",
+    host: "scira-mcp-chat.up.railway.app"
   }
 ];
 
