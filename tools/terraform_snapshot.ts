@@ -1,0 +1,1 @@
+// Реализация terraform snapshot tool
